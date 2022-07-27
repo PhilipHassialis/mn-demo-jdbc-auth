@@ -9,6 +9,8 @@
         </encoder>
     </appender>
 
+    <logger name="com.hassialis.philip" level="DEBUG" />
+
     <root level="info">
         <appender-ref ref="STDOUT" />
     </root>
