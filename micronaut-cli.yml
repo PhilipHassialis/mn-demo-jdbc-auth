@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.hassialis.philip
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jpa, h2, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, lombok, maven, netty-server, openapi, readme, security, security-annotations, security-jwt, shade, swagger-ui, yaml]
